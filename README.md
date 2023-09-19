@@ -1,2 +1,2 @@
 # Projeto-Acquatech
-Atividade pratica de html e css
+Projeto criado em aula de pesquisa e inovação para desenvolvimento de site institucional - 2023.2
